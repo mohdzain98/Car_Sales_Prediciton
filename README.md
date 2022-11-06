@@ -1,4 +1,4 @@
-# Car_Sales_Prediciton<br>
+# Car Sales Prediciton<br>
 Machine Learning is used across many ranges around the world.
 Sales prediction is the current numero trend in which all the business 
 companies thrive and it also aids the organization or concern in determining 
