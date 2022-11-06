@@ -13,12 +13,4 @@ to find the algorithms and techniques which provide the best performances. All
 methods provided comparable performance.<br>
 As a result we can say Linear Regression predicted with more accuracy then other models followed by Random Forest and Adaboost Regression.<br>
 
-## Result<br>
-Model	                    R2 Score
-Linear Regression      	  0.66306
-Adaboost Regression   	  0.61048
-Random Forest	            0.65868
-KNeighbors	              0.55823
-Support Vector Regression	0.49103
-Decision Tree Regression	0.49999
 
