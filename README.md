@@ -13,4 +13,5 @@ to find the algorithms and techniques which provide the best performances. All
 methods provided comparable performance.<br>
 As a result we can say Linear Regression predicted with more accuracy then other models followed by Random Forest and Adaboost Regression.<br>
 
-
+### Date:21/03/2023<br>
+The Neural Network model was implemented on the same dataset with same training and testing data and it was seen that accuracy(r2_score) was approx same for both models,this may be due to the small size of SCSP dataset for neural network.
